@@ -2,7 +2,7 @@
   <img
     width="250"
     display="inline-block"
-    src="https://i.imgur.com/KK7mzPX.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/1024px-Udemy_logo.svg.png"
   />
 </p>
 
